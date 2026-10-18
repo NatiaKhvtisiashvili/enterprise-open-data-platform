@@ -1,0 +1,38 @@
+
+[
+  {
+    "date": "2026-08-27T00:00:00.000Z",
+    "currencies": [
+      {
+        "code": "USD",
+        "quantity": 1,
+        "rate": 2.6512,
+        "name": "US Dollar"
+      },
+      {
+        "code": "EUR",
+        "quantity": 1,
+        "rate": 2.9284,
+        "name": "Euro"
+      },
+      {
+        "code": "GBP",
+        "quantity": 1,
+        "rate": 3.4102,
+        "name": "British Pound Sterling"
+      },
+      {
+        "code": "TRY",
+        "quantity": 10,
+        "rate": 0.7745,
+        "name": "Turkish Lira"
+      },
+      {
+        "code": "JPY",
+        "quantity": 100,
+        "rate": 1.7920,
+        "name": "Japanese Yen"
+      }
+    ]
+  }
+]
